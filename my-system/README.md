@@ -14,6 +14,7 @@
 - 学习面板：[`learning.md`](./learning.md)
 - 项目面板：[`projects.md`](./projects.md)
 - 知识库索引：[`knowledge.md`](./knowledge.md)
+- 案例选型与改造清单：[`case-selection.md`](./case-selection.md)
 
 ## 本周执行原则
 
